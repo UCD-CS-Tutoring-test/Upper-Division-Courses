@@ -1,0 +1,33 @@
+[submodule "ECS-120"]
+	path = ECS-120
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-120
+[submodule "ECS-122A"]
+	path = ECS-122A
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-122A
+[submodule "ECS-122B"]
+	path = ECS-122B
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-122B
+[submodule "ECS-132"]
+	path = ECS-132
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-132
+[submodule "ECS-140A"]
+	path = ECS-140A
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-140A
+[submodule "ECS-150"]
+	path = ECS-150
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-150
+[submodule "ECS-160"]
+	path = ECS-160
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-160
+[submodule "ECS-171"]
+	path = ECS-171
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-171
+[submodule "ECS-175"]
+	path = ECS-175
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-175
+[submodule "ECS-188"]
+	path = ECS-188
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-188
+[submodule "ECS-154A"]
+	path = ECS-154A
+	url = https://github.com/UCD-CS-Tutoring-Club/ECS-154A
